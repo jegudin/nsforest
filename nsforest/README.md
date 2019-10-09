@@ -1,2 +1,0 @@
-# nsforest
-Nested Set Forest
